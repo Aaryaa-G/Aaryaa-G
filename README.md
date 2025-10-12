@@ -8,7 +8,7 @@ Currently exploring the intersection of embedded firmware, AI, and communication
 Sharing my journey, failures, and triumphs in building space-bound tech.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Aaryaa-G&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # Tech Stack  
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -21,6 +21,7 @@ Sharing my journey, failures, and triumphs in building space-bound tech.
 ![STM32](https://img.shields.io/badge/stm32-%2300375A.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-# GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=xsol05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Aaryaa-G&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=Aaryaa-G&theme=radical&no-frame=false&no-bg=true&margin-w=4)
