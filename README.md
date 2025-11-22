@@ -1,27 +1,34 @@
+# Hey, I'm Aarya  
+Embedded Systems • Satellite Lab Intern • Space-Tech Builder  
 
-# Hey there, I'm Aarya!  
-  Embedded Systems Engineer | Satellite Lab Intern | Builder of Space-Tech and Code  
+I build systems that speak across the void — firmware, telemetry, radios, CubeSat payloads.  
+Always experimenting, always learning.  
+Right now: blending embedded engineering with AI and smarter communication systems.
 
-I love engineering systems that *talk to the stars* — from real-time telemetry to CubeSat payloads.  
-Constantly experimenting, tinkering, and learning out loud.  
-Currently exploring the intersection of embedded firmware, AI, and communication systems.  
-Sharing my journey, failures, and triumphs in building space-bound tech.
+---
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Aaryaa-G&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## ⚡ GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaryaa-G&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryaa-G&theme=radical&hide_border=true" height="150"/>
+</p>
 
-# Tech Stack  
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/stm32-%2300375A.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+---
 
+## 🛰️ Tech Stack  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-black?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Aaryaa-G&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Aaryaa-G&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+## 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Aaryaa-G&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
